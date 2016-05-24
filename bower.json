@@ -1,0 +1,21 @@
+{
+  "name": "bower-test-jtc",
+  "authors": [
+    "Jay Culpepper <jtculpepper@buckman.com>"
+  ],
+  "description": "bower test package from pluralsight",
+  "main": "rotate.js",
+  "moduleType": [],
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
